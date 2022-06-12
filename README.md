@@ -2,11 +2,9 @@
 
 ### [Site link](https://hostlife22.github.io/momentum/)
 
-<br><br>
 <kbd>
   <img align="right" alt="img" src="EwxtNJv.jpeg"  />
  </kbd>
-<br><br>
 
 ### The tech stack is:
 
