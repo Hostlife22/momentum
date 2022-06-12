@@ -3,7 +3,9 @@
 ### [Site link](https://hostlife22.github.io/momentum/)
 
 <br><br>
-  <img align="center" alt="img" src="EwxtNJv.jpeg" width="500" height="320" />
+<kbd>
+  <img align="right" alt="img" src="EwxtNJv.jpeg" width="500" height="320" />
+ </kbd>
 <br><br>
 
 ### The tech stack is:
