@@ -4,7 +4,7 @@
 
 <br><br>
 <kbd>
-  <img align="right" alt="img" src="EwxtNJv.jpeg" width="500" height="320" />
+  <img align="right" alt="img" src="EwxtNJv.jpeg"  />
  </kbd>
 <br><br>
 
